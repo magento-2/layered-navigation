@@ -7,8 +7,8 @@ The most basic customer behavior when they step into a purchase: search action. 
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-layered-navigation-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.*##
 
-## What is Magento 2 Layered Navigation?
-In short, Magento 2 Layered Navigation is an intelligent sitemap which will show a drop-down list of available attributions in your store, your customer need to filter the desired items and purchase them quickly.
+## What is Layered Navigation for Magento 2?
+In short, Magento 2 Layered Navigation Extension is an intelligent sitemap which will show a drop-down list of available attributions in your store, your customer need to filter the desired items and purchase them quickly.
 
 <img  src="https://i.imgur.com/SwWExvT.png" alt="What is Magento 2 Layered Navigation?" class="responsive-img lazy">
 
