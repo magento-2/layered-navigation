@@ -1,29 +1,29 @@
 # Magento 2 Layered Navigation Extension by Mageplaza
 
 ## Introduction
-Want to increase website traffic and revenue sales at the same time? **[Magento 2 Layered Navigation](https://www.mageplaza.com/magento-2-layered-navigation-extension/)** can help. Obviously, the core strategy is how you can keep your customers in the store as long as possible, and build a unique and friendly user experience, no wonder capturing customer’s behaviour is really a thing to mind.
+Want to increase website traffic and revenues at the same time? **[Magento 2 Layered Navigation](https://www.mageplaza.com/magento-2-layered-navigation-extension/)** can help. Obviously, the core strategy is how you can keep your customers in the store as long as possible, and build a unique and friendly-user experience, no wonder capturing customer’s behaviour is really a thing to mind.
 
-The most basic customer behavior when they step into a purchase: search action. So let’s be real impressive right from the first step. Mageplaza is happy to introduce a useful extension: Layered Navigation for searching and filtering products, a sweet deal for Magento 2’s users, an advanced tool helps customers find their favorite products in a shorter time than ever. Let us support you in traffic issues.
+The most basic customer behavior when they step into a purchase: search action. So let’s be real impressive right from the first step. Mageplaza is happy to introduce a useful extension: Layered Navigation for searching and filtering products, a sweet deal for Magento 2’s users, an advanced tool helps customers find their favorite products in the shortest time than ever. Let us support you in traffic issues.
 
 *This project moved to [Mageplaza page](https://www.mageplaza.com/magento-2-layered-navigation-extension/?utm_source=microsite&utm_medium=link&utm_campaign=m2-one-step-checkout&utm_content=github) and no longer download from Github.*##
 
 ## What is Layered Navigation for Magento 2?
-In short, Magento 2 Layered Navigation Extension is an intelligent sitemap which will show a drop-down list of available attributions in your store, your customer need to filter the desired items and purchase them quickly.
+In short, Magento 2 Layered Navigation is an intelligent sitemap which will show a drop-down list of available attributions in your store, your customers need to filter the desired items and purchase them quickly.
 
 <img  src="https://i.imgur.com/SwWExvT.png" alt="What is Magento 2 Layered Navigation?" class="responsive-img lazy">
 
-How your customer use this filter? It’s like a piece of cakes, you can try out the demo right now by following this **[link](https://www.google.com/url?q=http://lnultimate.demo.mageplaza.com/collections/performance-fabrics.html&sa=D&ust=1504675782354000&usg=AFQjCNHDqmml_bkJiv7VDMs0tfB6214ECw)**. And the Configuration is not a hard work log to deal with. 
+How will your shoppers use this filter? It’s like a piece of cakes, you can try out the demo right now by following this **[link](https://www.google.com/url?q=http://lnultimate.demo.mageplaza.com/collections/performance-fabrics.html&sa=D&ust=1504675782354000&usg=AFQjCNHDqmml_bkJiv7VDMs0tfB6214ECw)**. And the configuration is not a hard work log to deal with. 
 
-But showing up all in-store attributes is not how we cut the mustard to improve more than an usual filter. We have researched and found many great solutions to assist in having search process better, to demonstrate the effort we can solve for the search engine optimization problem on Magento 2. Please take a overview look for those useful informations in Layered Navigation for Magento 2.
+But showing up all in-store attributes is not how we cut the mustard to improve more than an usual filter. We have researched and found many great solutions for a much better searching process. Please take a overview look for those useful information in Layered Navigation for Magento 2.
 
 ## Features
 ### Multiple Filters
-Of course you can catch the meaning right by straight words. This feature will let your customer filter their favourite items more than one attribute. For instant, she doesn’t want a blue sweater in “Color”, but also a strawberry decoration in “Pattern” would be a nice combo, then yes you can let she have what she wants by multi-choose filtering in two attributes at the same time.
+Of course you can catch the meaning right by straight words. This feature will let your customers filter their favourite items more than one attribute. For instant, she not only wants want a blue sweater in “Color”, but also a strawberry decoration in “Pattern” would be a nice combo, then yes you can let she have what she wants by multi-choose filtering in other attributes at the same time.
 
 <img  src="https://i.imgur.com/thcduNo.gif" alt="Multiple filters in layered navigation magento 2" class="responsive-img lazy"> 
 
 ### Price Slider
-Customers have many their own financial problems and they need to conssider carefully in your enormous stock? No problems, Price Slider feature allows customers to filter at an allowable price range that will be displayed on the search result pages, and I am convinced that this is a thorough understanding gesture of the store owner showing to their customer.
+Your shopper's budget should be varied considerably among individuals and they just don't want to waste time on viewing products which are unreasonable. No problems, Price Slider feature allows customers to filter at an allowable price range that will be displayed on the search result pages, and I am convinced that this is a thorough understanding gesture of the store owner showing to their customer.
 
 <img  src="https://i.imgur.com/nKm2eE4.png" alt="price slider" class="responsive-img lazy">
 
@@ -33,19 +33,19 @@ Let’s give a little warm care for your products. You have a lot of brand new t
 <img  src="https://i.imgur.com/r5f5xjg.gif" alt="Filter by Product Status in Magento 2 Layered Navigation" class="responsive-img lazy">
 
 ### Filter by Product rating
-One more thumb ups for recommendation tools and creative feature in building user experiences since sometimes, true story will be built from real experiences came from real customers, which are the most authentic stories. Literally, customers are able to choose 5 options from 1 to 5 stars rating, for example, if you choose 4 start rating, in a second, the items which have the 4-star rating and up will be displayed.
+Your customers would rather trust your product's rating and reviews than just look at beautiful thumbnail images? Well yes, Layered Navigation allows shoppers to filter products by ratings Literally, customers are able to choose 5 options from 1 to 5 stars rating; for example, if you choose 4-star rating, in a second, the items which are rated from 4 stars will be displayed. 
 
 <img  src="https://i.imgur.com/JXI3taw.gif" alt="Filter by Product rating in magento 2 layered navigation" class="responsive-img lazy">
 
 ### Quick Lookup Option
-Entering the first letter of keywords to lookup the desired variant, that’s all, visitors won’t have to scroll down forever too check the filter. Did I say that it’s really easy to understand and use? Generally, the customer who finds the products quickly more likely to make a purchase. Thanks to Quick Lookup Options, the search process will become more convenient and effortless. No wonder this feature will increase the sales significantly.
+This feature allows shoppers to click on a product attribute and search for filters by typing in a search box. Entering the first letter of keywords to look for the desired variant, that’s all. Did I say that it’s really easy to understand and use? Generally, the customer who finds the products quickly more likely to make a purchase. Thanks to Quick Lookup Options, the search process will become more convenient and effortless. No wonder, this feature will increase the sales significantly.
 
 <img  src="https://i.imgur.com/fgex7N7.gif" alt="Quick Lookup Option in magento 2 layered navigation" class="responsive-img lazy">
 
 ### Infinite Product Scroll
-According to Google Trend, the Infinite Scrolling feature on product page is still e-commerce stores favorite although there is a decline in interest rate after it reached the top in January 2013.
+According to Google Trend, the Infinite Scrolling feature on product page is still e-commerce store’s favorite although there was a decline in the interest rate after it reached a peak in January 2013.
 
-By enable this feature in online store, when shopper reach the end-point pages, it will automatically load new products wwithout clicking “Load more” button, redirect another pages or something similar like that. It is undoubted that the Infinite Scrolling feature can eliminate the distraction and keep the shoppers stay with your site.
+By enabling this feature in online stores, when shoppers reach the page end, it will automatically load new products without clicking “Load more” button. It is undoubted that the Infinite Scrolling feature can eliminate the distraction and keep the shoppers stay in your site.
 
 <img  src="https://i.imgur.com/sIRZ0Ha.gif" alt="Infinite Product Scroll in Magento 2 Layered Navigation" class="responsive-img lazy">
 
@@ -57,7 +57,7 @@ Advantageous Ajax loading is a special cure, it will cut all the loading time by
 <img  src="https://i.imgur.com/xBMoIZE.gif" alt="Instant Loading Ajax technology in Magento 2 Layered Navigation" class="responsive-img lazy">
 
 ### Apply Filter button
-Friendly extra button if you don’t like auto-load function every time choose a filer. If you want to pick up your multiple attribute fetishes, and apply to loading all for once, this might be the appropriated offer for you.
+Friendly extra button if you don’t like auto-load function every time you choose a filer. If you want to pick up your multiple attribute fetishes, and apply to loading all for once, this might be the appropriate offer for you.
 
 <img  src="https://i.imgur.com/YgJjwyf.gif" alt="Apply Filter button in Magento 2 Layered Navigation" class="responsive-img lazy">
 
@@ -69,12 +69,12 @@ Here is the visual example what is a SEO-friendly URL, as you can see the URL’
 
 <img  src="https://i.imgur.com/MEe1lqZ.png" alt="Filter by SEO-friendly URL in Magento 2 Layered Navigation" class="responsive-img lazy">
 
-Personally and to be honest, I have a soft spot for a friendly URL, sometime it makes me recall of brands/items/stores thanks to steamy memories about the URL. Also in marketing’s point of view, SEO-friendly URL is a critical task to optimize your store obtain better ranking in search result pages.
+Personally and to be honest, I have a soft spot for a friendly URL, sometimes it makes me recall of brands/items/stores thanks to steamy memories about the URL. Also in marketing’s point of view, SEO-friendly URL is a critical task to optimize your store obtain better ranking in search result pages.
 
 ### All Product Pages
-Human need is endless. Customers want to infatuate in search of thousands of products journey in your cosmetic store? Bring it on by Mageplaza’s All Product Pages. You can create many All Product Pages as you want, there’s no worries about how it will affect to the loading time, you have our backup obviously.
+Human need is endless. Customers want to infatuate in search of thousands of products journey in your store? Bring it on by Mageplaza’s All Product Pages. You can create as many All Product Pages as you want, there’s no worries about how it will affect to the loading time, you have our backup obviously.
 
-Also you can built an advanced SEO plan for All Product Pages by custom URL, Meta Title, Meta Description, Meta Keywords, and increase the site rank in the search engine result pages.
+Also, you can build an advanced SEO plan for All Product Pages by custom URL, Meta Title, Meta Description, Meta Keywords, and increase the site rank in the search engine result pages.
 
 ## Full features list of Magento 2 Improved Navigation
 
@@ -130,3 +130,5 @@ Also you can built an advanced SEO plan for All Product Pages by custom URL, Met
 - Fully compatible with Mageplaza extensions
 - Supports multiple stores	
 - Supports multiple languages
+
+**Source: [https://www.mageplaza.com/magento-2-layered-navigation-extension/](https://www.mageplaza.com/magento-2-layered-navigation-extension/)**
